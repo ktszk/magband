@@ -1,0 +1,6 @@
+fort.*
+out*
+*.input
+*~
+main
+*.o
